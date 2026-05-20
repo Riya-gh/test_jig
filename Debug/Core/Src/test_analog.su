@@ -1,6 +1,0 @@
-../Core/Src/test_analog.c:18:13:select_voltage	16	static
-../Core/Src/test_analog.c:39:17:read_adc_from_dut	16	static
-../Core/Src/test_analog.c:51:14:voltage_to_adc	16	static
-../Core/Src/test_analog.c:59:12:is_within_range	24	static
-../Core/Src/test_analog.c:72:21:test_one_level	40	static
-../Core/Src/test_analog.c:102:14:adc_test_channel	16	static

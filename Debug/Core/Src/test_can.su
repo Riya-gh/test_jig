@@ -1,5 +1,0 @@
-../Core/Src/test_can.c:27:6:CAN_Test_Init	48	static
-../Core/Src/test_can.c:65:6:CAN_Test_Board1_Run	64	static
-../Core/Src/test_can.c:126:6:CAN_Test_Board2_Run	16	static
-../Core/Src/test_can.c:138:6:CAN_Test_RxCallback	16	static
-../Core/Src/test_can.c:166:6:HAL_FDCAN_RxFifo0Callback	16	static

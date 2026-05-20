@@ -1,4 +1,0 @@
-../Core/Src/master_test.c:42:6:MASTER_Test_DIDO	32	static
-../Core/Src/master_test.c:79:6:MASTER_Test_CAN_Loopback	104	static
-../Core/Src/master_test.c:109:6:MASTER_Test_CAN_Physical	48	static
-../Core/Src/master_test.c:167:6:MASTER_Test_Analog	32	static
